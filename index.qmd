@@ -1,0 +1,22 @@
+---
+title: "Curaçao Census Data Maps"
+format:
+  html:
+    theme: cosmo
+    toc: false
+---
+
+## Overview
+
+This page provides links to several static map visualizations related to the Curaçao census data.
+
+### Available Maps
+
+* [**Geographic Discrepancies (2023 vs. 2011)**](./geozone_discrepancies_b2021_b2011c.html)
+    * This map shows the differences in geozones between the 2011 and 2023 census boundaries.
+
+* [**Grouped Areas (2023 vs. 2011)**](./grouped_2021_2011_areas.html)
+    * This map visualizes how the newer 2023 neighborhood definitions can be grouped to align with the older 2011 census areas.
+
+* [**Nuisance Map**](./nuisance_map.html)
+    * A thematic map displaying household reports of various nuisances (e.g., air pollution, noise) from the 2023 census data.
